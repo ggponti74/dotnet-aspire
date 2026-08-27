@@ -1,0 +1,8 @@
+/workspaces/dotnet-aspire/SimpleAspireApp.AppHost/obj/Debug/net10.0/SimpleAspireApp.AppHost.csproj.AssemblyReference.cache
+/workspaces/dotnet-aspire/SimpleAspireApp.AppHost/obj/Debug/net10.0/SimpleAspireApp.AppHost.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/dotnet-aspire/SimpleAspireApp.AppHost/obj/Debug/net10.0/SimpleAspireApp.AppHost.AssemblyInfoInputs.cache
+/workspaces/dotnet-aspire/SimpleAspireApp.AppHost/obj/Debug/net10.0/SimpleAspireApp.AppHost.AssemblyInfo.cs
+/workspaces/dotnet-aspire/SimpleAspireApp.AppHost/obj/Debug/net10.0/SimpleAspireApp.AppHost.csproj.CoreCompileInputs.cache
+/workspaces/dotnet-aspire/SimpleAspireApp.AppHost/obj/Debug/net10.0/Aspire/references/.ProjectMetadata.g.cs
+/workspaces/dotnet-aspire/SimpleAspireApp.AppHost/obj/Debug/net10.0/Aspire/references/_AppHost.ProjectMetadata.g.cs
+/workspaces/dotnet-aspire/SimpleAspireApp.AppHost/obj/Debug/net10.0/SimpleAspireApp.AppHost.sourcelink.json

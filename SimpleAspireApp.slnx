@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="SimpleAspireApp.Api/SimpleAspireApp.Api.csproj" />
+  <Project Path="SimpleAspireApp.AppHost/SimpleAspireApp.AppHost.csproj" />
+  <Project Path="SimpleAspireApp.Worker/SimpleAspireApp.Worker.csproj" />
+</Solution>
